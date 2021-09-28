@@ -1,0 +1,6 @@
+resources/images/80-gunde.jpg
+resources/images/1984.jpg
+resources/images/diplomasi-henry-kissenger.jpg
+resources/images/default.jpg
+resources/images/amok-koşucusu.jpg
+resources/images/baslangic.jpg
